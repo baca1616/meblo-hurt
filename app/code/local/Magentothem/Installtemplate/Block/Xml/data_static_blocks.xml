@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<ma_lyra_wide>
+    <blocks>
+        <block>
+            <title>Banner Static</title>
+            <identifier>banner_static</identifier>
+            <content>
+                      <![CDATA[
+			<div class="container">
+			<div class="banner-static">
+			<div class="row-fluid">
+			<div class="span4">
+			<div class="banner col"><a href="{{store url="men.html"}}"><img src="{{media url="wysiwyg/banner-static.jpg"}}" alt="" /></a></div>
+			</div>
+			<div class="span4">
+			<div class="banner col1"><a href="{{store url="footwear.html"}}"><img src="{{media url="wysiwyg/banner-static1.jpg"}}" alt="" /></a></div>
+			</div>
+			<div class="span4">
+			<div class="banner col2"><a href="{{store url="women.html"}}"><img src="{{media url="wysiwyg/banner-static2.jpg"}}" alt="" /></a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+                        ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+        <block>
+            <title>Footer Static</title>
+            <identifier>footer_static</identifier>
+            <content>
+                    <![CDATA[
+			<div class="footer-static">
+			<div class="row-fluid">
+			<div class="span3">
+			<div class="footer col">
+			<div class="footer-title">INFORMATION</div>
+			<div class="footer-content">
+			<div class="f-box">
+			<h2>MA LYRA STORE</h2>
+			<div class="address">1 Crossgates Mall Road Albany, NY 12203</div>
+			<div class="email">Email: <a href="http://www.plazathemes.com/">MaLyra@Plazathemes.com</a></div>
+			<div class="phone">Phone: (500) 123-4567</div>
+			<h3>Store hours:</h3>
+			<div class="mon">Mon - Sat: 10:00 a.m. - 9:30 p.m.</div>
+			<div class="sun">Sun: 11:00 a.m. - 6:00 p.m.</div>
+			</div>
+			<div class="f-box1">
+			<div class="footer-title">connect</div>
+			<ul class="footer-icon">
+			<li class="in">in</li>
+			<li class="facebook">facebook</li>
+			<li class="twiter">twiter</li>
+			<li class="flow">flow</li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			</div>
+			<div class="span9">
+			<div class="f-top">
+			<div class="f-logo"><img src="{{media url="wysiwyg/logo-footer.png"}}" alt="" /></div>
+			<div class="f-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</div>
+			</div>
+			<div class="f-bottom">
+			<div class="row-fluid">
+			<div class="span4">
+			<div class="footer col1">
+			<div class="footer-title">PRODUCT TAGS</div>
+			<div class="footer-content">{{block type="tag/popular" name="tags_popular" template="tag/popular.phtml"}}</div>
+			</div>
+			</div>
+			<div class="span4">
+			<div class="footer col2">
+			<div class="footer-title">OUR SERVICES</div>
+			<div class="footer-content">
+			<ul>
+			<li class="first"><a href="{{store direct_url="about-magento-demo-store"}}">About us</a></li>
+			<li><a href="{{store direct_url="sales/guest/form/"}}">orders and returns</a></li>
+			<li><a href="{{store direct_url="catalogsearch/term/popular/"}}"> search terms</a></li>
+			<li><a href="{{store direct_url="contacts/"}}">Contact Us</a></li>
+			<li class="last"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div class="span4">
+			<div class="footer col3">
+			<div class="footer-title">MY ACCOUNT</div>
+			<div class="footer-content">
+			<ul>
+			<li class="first"><a href="{{store url="customer/account/login/"}}">Sign In</a></li>
+			<li><a href="{{store url="checkout/cart/"}}">View Cart</a></li>
+			<li><a href="{{store url="wishlist"}}">My Wishlist</a></li>
+			<li><a href="{{store url="sales/order/history/"}}">Track My Order</a></li>
+			<li class="last"><a href="#">Help</a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+		    ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+
+
+        <block>
+            <title>Static Sub Menu Bottom</title>
+            <identifier>pt_menu_idcat_4</identifier>
+            <content>
+                    <![CDATA[
+			<div class="custom-menu-bottom">
+			<div class="menu-bottom col">
+			<div class="menu-image"><a href="#"><img src="{{media url="wysiwyg/bg-menu-bottom.png"}}" alt="" /></a></div>
+			<div class="menu-text">
+			<h3>Alexander McQueen</h3>
+			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+			<a href="#">Readmore</a></div>
+			</div>
+			</div>
+		    ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+
+
+
+        <block>
+            <title>Banner Left</title>
+            <identifier>banner_left</identifier>
+            <content>
+                   <![CDATA[
+			<div class="block block-banner-left"><a href="#"><img src="{{media url="wysiwyg/banner-left.jpg"}}" alt="" /></a></div>
+		    ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+
+        <block>
+            <title>Top Header</title>
+            <identifier>top_header</identifier>
+            <content>
+                <![CDATA[
+                   <div class="top-header">
+		    <div class="container">
+		    <div class="top-content">
+		    <div class="heaser-text">
+		    <h2>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</h2>
+		    </div>
+		    <div class="head-link"><a href="#">Purchase Now</a></div>
+		    </div>
+		    </div>
+		    </div>
+                ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+
+
+
+        <block>
+            <title>Footer Top</title>
+            <identifier>footer_top</identifier>
+            <content>
+                <![CDATA[
+		<div class="footer-top">
+		<div class="container">
+		<div class="footer-top-content">
+		<div class="row-fluid">
+		<div class="span3">
+		<div class="box-footer col">
+		<div class="footer-image"><img src="{{media url="wysiwyg/footer-img1.png"}}" alt="" /></div>
+		<div class="footer-text">
+		<h3>FREE SHIPPING</h3>
+		<p>Lorem ipsum dolor sit amet</p>
+		</div>
+		</div>
+		</div>
+		<div class="span3">
+		<div class="box-footer col1">
+		<div class="footer-image"><img src="{{media url="wysiwyg/footer-img2.png"}}" alt="" /></div>
+		<div class="footer-text">
+		<h3>Money Back Guaranteed</h3>
+		<p>Lorem ipsum dolor sit amet</p>
+		</div>
+		</div>
+		</div>
+		<div class="span3">
+		<div class="box-footer col2">
+		<div class="footer-image"><img src="{{media url="wysiwyg/footer-img3.png"}}" alt="" /></div>
+		<div class="footer-text">
+		<h3>MONEY BACK</h3>
+		<p>Lorem ipsum dolor sit amet</p>
+		</div>
+		</div>
+		</div>
+		<div class="span3">
+		<div class="box-footer col2">
+		<div class="footer-image"><img src="{{media url="wysiwyg/footer-img4.png"}}" alt="" /></div>
+		<div class="footer-text">
+		<h3>PAYMENT SECURE</h3>
+		<p>Lorem ipsum dolor sit amet</p>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Banner Wide</title>
+            <identifier>banner_wide</identifier>
+            <content>
+                <![CDATA[
+		    <div class="banner_wide">
+		    <div class="row-fluid">
+		    <div class="span6">
+		    <div class="wide-images"><a href="#"><img src="{{media url="wysiwyg/banner-wide.png"}}" alt="" /></a></div>
+		    </div>
+		    <div class="span6">
+		    <div class="wide-newletter">{{block type="newsletter/subscribe" name="left.newsletter" template="newsletter/subscribe.phtml"}}</div>
+		    </div>
+		    </div>
+		    </div>
+                ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+    </blocks>
+
+</ma_lyra_wide>
+

@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'bebasregular';
+    src: url('../fonts/utm_bebas-webfont.eot');
+    src: url('../fonts/utm_bebas-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/utm_bebas-webfont.woff') format('woff'),
+         url('../fonts/utm_bebas-webfont.ttf') format('truetype'),
+         url('../fonts/utm_bebas-webfont.svg#utm_bebasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body { font-family: 'bebasregular'; }
+.pt_custommenu div.pt_menu .parentMenu a, .pt_custommenu div.pt_menu .parentMenu span.block-title,button.button span {font-family: 'bebasregular';}
+.toplink .welcome-msg,.drop-lang li a,.drop-currency li a,.dropit li a,.top-cart-title span,.top-cart-content .empty{ font-size: 16px !important;}
+.nivo-caption { margin: 0 0 0 -400px !important; top: -20px !important;}
+.block-subscribe input.input-text { width: 180px !important;}
+.ma-onsale-products .rating-box .rating {
+    background: url("../images/rating-onsale.png") repeat-x scroll 0 100% !important;
+}
+.ma-onsale-products .rating-box {
+    background: url("../images/rating-onsale.png") repeat-x scroll 0 0 !important;
+}
+.featuredproductslider-item { width: 205px !important;}
+.footer-top .footer-text h3 { font-size: 14px !important;}
+.ma-footer-static-container .f-logo { width: 32% !important;}
+.ma-footer-static-container .f-text { width: 60% !important; font-size: 11px !important;}
+#search_price { margin: 10px 0 0 !important;}
+.banner_wide .input-actions { margin: 10px 0 0 !important;}
+.form-subscribe-header p { margin: 9px 0 0 !important;}
+.block-subscribe .actions .button span { padding: 5px 20px !important;}
+.block-subscribe input.input-text { line-height: 32px !important; height: 32px !important;}
+.block-subscribe .actions .button span span { padding: 0 !important;}

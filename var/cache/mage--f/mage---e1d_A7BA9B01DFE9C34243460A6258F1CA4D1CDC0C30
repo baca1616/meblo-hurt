@@ -1,0 +1,77 @@
+
+                    
+			<div class="footer-static">
+			<div class="row-fluid">
+			<div class="span3">
+			<div class="footer col">
+			<div class="footer-title">INFORMATION</div>
+			<div class="footer-content">
+			<div class="f-box">
+			<h2>MA LYRA STORE</h2>
+			<div class="address">1 Crossgates Mall Road Albany, NY 12203</div>
+			<div class="email">Email: <a href="http://www.plazathemes.com/">MaLyra@Plazathemes.com</a></div>
+			<div class="phone">Phone: (500) 123-4567</div>
+			<h3>Store hours:</h3>
+			<div class="mon">Mon - Sat: 10:00 a.m. - 9:30 p.m.</div>
+			<div class="sun">Sun: 11:00 a.m. - 6:00 p.m.</div>
+			</div>
+			<div class="f-box1">
+			<div class="footer-title">connect</div>
+			<ul class="footer-icon">
+			<li class="in">in</li>
+			<li class="facebook">facebook</li>
+			<li class="twiter">twiter</li>
+			<li class="flow">flow</li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			</div>
+			<div class="span9">
+			<div class="f-top">
+			<div class="f-logo"><img src="http://127.0.0.1/meblo-hurt/media/wysiwyg/logo-footer.png" alt="" /></div>
+			<div class="f-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</div>
+			</div>
+			<div class="f-bottom">
+			<div class="row-fluid">
+			<div class="span4">
+			<div class="footer col1">
+			<div class="footer-title">PRODUCT TAGS</div>
+			<div class="footer-content"></div>
+			</div>
+			</div>
+			<div class="span4">
+			<div class="footer col2">
+			<div class="footer-title">OUR SERVICES</div>
+			<div class="footer-content">
+			<ul>
+			<li class="first"><a href="http://127.0.0.1/meblo-hurt/index.php/about-magento-demo-store?___SID=U">About us</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/sales/guest/form/?___SID=U">orders and returns</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/catalogsearch/term/popular/?___SID=U"> search terms</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/contacts/?___SID=U">Contact Us</a></li>
+			<li class="last"><a href="http://127.0.0.1/meblo-hurt/index.php/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div class="span4">
+			<div class="footer col3">
+			<div class="footer-title">MY ACCOUNT</div>
+			<div class="footer-content">
+			<ul>
+			<li class="first"><a href="http://127.0.0.1/meblo-hurt/index.php/customer/account/login/?___SID=U">Sign In</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/checkout/cart/?___SID=U">View Cart</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/wishlist/?___SID=U">My Wishlist</a></li>
+			<li><a href="http://127.0.0.1/meblo-hurt/index.php/sales/order/history/?___SID=U">Track My Order</a></li>
+			<li class="last"><a href="#">Help</a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+		    
+            

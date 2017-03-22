@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ma_lyra_wide>
+    <resources>
+        <resource>
+            <title>Ma_Lyra_wide Home page</title>
+            <identifier>ma_lyra_wide_home</identifier>
+            <root_template>one_column</root_template>
+				<content><![CDATA[
+				<div class="home-content">{{widget type="categorytabs/advanced" title="Our Products" identify="newarrivals" cat_ids="3,4,5,6,7" template="magentothem/categorytabs/categorytabs.phtml" products_count="8" product_on_row="4" width_thumbnail="270" height_thumbnail="328"}}</div>
+				]]></content>
+				<sort_order>1</sort_order>
+            <is_active>1</is_active>
+        </resource>
+    </resources>
+</ma_lyra_wide>
